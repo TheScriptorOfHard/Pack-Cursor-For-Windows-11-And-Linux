@@ -3,13 +3,11 @@
 1. ## Installation
 
 ### For Windows 11
-1. Download the files from the `windows-cursors` folder.
-2. Locate the `install.inf` file.
-3. Right-click on it and select **Install**.
-4. Go to **Settings > Personalization > Themes > Mouse Cursor** and select the new theme from the dropdown menu.
+1. Download the `Pack Cursor For Windows 11 And Linux` folder and extract the files from the ZIP folder.
+2. Go to **Settings > Bluetooth & devices > Mouse > Additional mouse settings > Pointers**
 
 ### For Linux
-1. Copy the files from the `linux-cursors` folder.
+1. Download the `Pack Cursor For Windows 11 And Linux` folder and extract the files from the ZIP folder.
 2. Move them to your `~/.icons/` directory (create the folder if it doesn't exist).
 3. Open your system **Theme/Mouse Settings** and select the new cursor pack.
 
